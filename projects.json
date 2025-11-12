@@ -1,0 +1,22 @@
+[
+  {
+    "id": "proj-1",
+    "name": "Creative Portfolio",
+    "nameAr": "بورتفوليو إبداعي",
+    "descEn": "A personal portfolio with dark/light mode and bilingual support.",
+    "descAr": "بورتفوليو شخصي بواجهة مزدوجة اللغة مع الوضع الليلي والفاتح.",
+    "image": "assets/project1.png",
+    "url": "https://example.com/portfolio",
+    "tags": ["html","css","js"]
+  },
+  {
+    "id": "proj-2",
+    "name": "E-Commerce UI",
+    "nameAr": "واجهة متجر إلكتروني",
+    "descEn": "Modern responsive e-commerce interface with animations.",
+    "descAr": "واجهة متجر إلكتروني حديثة ومتجاوبة مع تأثيرات حركية.",
+    "image": "assets/project2.png",
+    "url": "https://example.com/shop",
+    "tags": ["ui","react","design"]
+  }
+]

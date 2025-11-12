@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Saif Nasr — Web Designer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Preloader -->
+<div id="preloader">
+  <h1 id="preloaderText">Saif Nasr</h1>
+</div>
+
+<header id="header">
+  <h1 id="siteTitle" data-text-en="Saif Nasr" data-text-ar="سيف نصر">Saif Nasr</h1>
+  <nav>
+    <a href="#home" data-text-en="Home" data-text-ar="الرئيسية">Home</a>
+    <a href="#work" data-text-en="Websites I Created" data-text-ar="مواقعي">Websites I Created</a>
+    <a href="#about" data-text-en="About" data-text-ar="نبذة عني">About</a>
+    <a href="#contact" data-text-en="Contact" data-text-ar="تواصل معي">Contact</a>
+    <button class="toggle-btn" id="themeToggle"><span id="themeIcon">🌞</span></button>
+    <button class="toggle-btn" id="langToggle">AR</button>
+  </nav>
+</header>
+
+<main id="page" class="page" style="opacity:0;">
+  <!-- Hero -->
+  <section id="home" class="hero section">
+    <h2 data-text-en="I’m Saif Nasr" data-text-ar="أنا سيف نصر">I’m Saif Nasr</h2>
+    <p data-text-en="Creative Front-End Developer & Web Designer crafting modern and fast user experiences." 
+       data-text-ar="مصمم ومطور واجهات مواقع مبتكر، أصمم تجارب مستخدم سريعة وحديثة.">
+       Creative Front-End Developer & Web Designer crafting modern and fast user experiences.
+    </p>
+  </section>
+  <hr>
+
+  <!-- Work -->
+  <section id="work" class="work section">
+    <h2 data-text-en="Websites I Created" data-text-ar="مواقعي التي صممتها">Websites I Created</h2>
+    <p data-text-en="Here are some of my favorite creations — crafted with attention to detail and love for clean code."
+       data-text-ar="هنا بعض من أفضل أعمالي — مصممة بعناية واهتمام بالنظافة والجودة.">
+       Here are some of my favorite creations — crafted with attention to detail and love for clean code.
+    </p>
+    <div class="grid" id="projectsGrid"></div>
+  </section>
+  <hr>
+
+  <!-- About -->
+  <section id="about" class="about section">
+    <h2 data-text-en="About Me" data-text-ar="نبذة عني">About Me</h2>
+    <p data-text-en="I am Saif Nasr, a passionate Front-End Developer and Web Designer. I build interactive, responsive, and visually appealing websites using HTML, CSS, and JavaScript."
+       data-text-ar="أنا سيف نصر، مصمم ومطور واجهات مواقع متحمس. أبني مواقع تفاعلية وسريعة وجذابة بصرياً باستخدام HTML و CSS و JavaScript.">
+       I am Saif Nasr, a passionate Front-End Developer and Web Designer. I build interactive, responsive, and visually appealing websites using HTML, CSS, and JavaScript.
+    </p>
+    <blockquote data-text-en="“Good design focuses on the user first and makes technology invisible.”"
+               data-text-ar="“التصميم الجيد يركز على المستخدم أولاً ويجعل التقنية شفافة.”">
+      “Good design focuses on the user first and makes technology invisible.”
+    </blockquote>
+  </section>
+  <hr>
+
+  <!-- Contact -->
+  <section id="contact" class="contact section">
+    <h2 data-text-en="Contact Me" data-text-ar="تواصل معي">Contact Me</h2>
+    <p data-text-en="Feel free to reach out to discuss any project or idea."
+       data-text-ar="تواصل معي لمناقشة أي مشروع أو فكرة.">
+       Feel free to reach out to discuss any project or idea.
+    </p>
+    <p class="socials">
+      <a href="mailto:saifnasr575@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png"></a>
+      <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"></a>
+      <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"></a>
+    </p>
+  </section>
+</main>
+
+<footer>© <span id="year"></span> Saif Nasr — Web Designer</footer>
+
+<!-- Modal -->
+<div class="modal" id="modal">
+  <div class="modal-content">
+    <span class="close" id="modalClose">&times;</span>
+    <img id="modalImg" src="" alt="">
+    <h3 id="modalTitle"></h3>
+    <p id="modalDesc"></p>
+    <a id="modalLink" href="#" target="_blank">Visit Website</a>
+  </div>
+</div>
+
+<!-- Language overlay -->
+<div id="langOverlay"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
