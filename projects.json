@@ -5,7 +5,7 @@
     "nameAr": "موقع خاص ببيع منتجات عنايه بالسيدات",
     "descEn": "A website specializing in selling women's care products.",
     "descAr": "موقع خاص ببيع منتجات عنايه بالسيدات.",
-    "image": "asset/1.jpg",
+    "image": "assets/1.jpg",
     "url": "https://beautymil.com",
     "tags": ["html","css","js"]
   },
@@ -15,7 +15,7 @@
     "nameAr": "موقع خاص بشركه تسويق عقاري",
     "descEn": "Website belonging to a real estate marketing company.",
     "descAr": "موقع خاص بشركه تسويق عقاري.",
-    "image": "asset/2.jpg",
+    "image": "assets/2.jpg",
     "url": "https://qasralyaqoot.com",
     "tags": ["ui","react","design"]
   },
@@ -25,7 +25,7 @@
     "nameAr": "موقع خاص بشركه تأجير مساحات مكتبيه",
     "descEn": "Website for an office space rental company.",
     "descAr": "موقع خاص بشركه تأجير مساحات مكتبيه.",
-    "image": "asset/3.png",
+    "image": "assets/3.png",
     "url": "https://yesspaces.net",
     "tags": ["html","css","js"]
   },
@@ -35,12 +35,13 @@
     "nameAr": "مظلات وسواتر ديكوارت",
     "descEn": "Decorative Awnings and Shades.",
     "descAr": "مظلات وسواتر ديكوارت.",
-    "image": "asset/4.png",
+    "image": "assets/4.png",
     "url": "https://beautymil.com",
     "tags": ["ui","react","design"]
 
-  },
+  }
 ]
+
 
 
 
