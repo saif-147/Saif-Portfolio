@@ -1,22 +1,31 @@
 [
   {
     "id": "proj-1",
-    "name": "Creative Portfolio",
-    "nameAr": "بورتفوليو إبداعي",
-    "descEn": "A personal portfolio with dark/light mode and bilingual support.",
-    "descAr": "بورتفوليو شخصي بواجهة مزدوجة اللغة مع الوضع الليلي والفاتح.",
-    "image": "assets/project1.png",
-    "url": "https://example.com/portfolio",
+    "name": "A website specializing in selling women's care products",
+    "nameAr": "موقع خاص ببيع منتجات عنايه بالسيدات",
+    "descEn": "A website specializing in selling women's care products.",
+    "descAr": "موقع خاص ببيع منتجات عنايه بالسيدات.",
+    "image": "assets/1.jpg",
+    "url": "https://beautymil.com",
     "tags": ["html","css","js"]
   },
   {
     "id": "proj-2",
-    "name": "E-Commerce UI",
-    "nameAr": "واجهة متجر إلكتروني",
-    "descEn": "Modern responsive e-commerce interface with animations.",
-    "descAr": "واجهة متجر إلكتروني حديثة ومتجاوبة مع تأثيرات حركية.",
-    "image": "assets/project2.png",
-    "url": "https://example.com/shop",
+    "name": "Website belonging to a real estate marketing company",
+    "nameAr": "موقع خاص بشركه تسويق عقاري",
+    "descEn": "Website belonging to a real estate marketing company.",
+    "descAr": "موقع خاص بشركه تسويق عقاري.",
+    "image": "assets/2.jpg",
+    "url": "https://qasralyaqoot.com",
     "tags": ["ui","react","design"]
-  }
+  },
+  {
+    "id": "proj-3",
+    "name": "Website for an office space rental company",
+    "nameAr": "موقع خاص بشركه تأجير مساحات مكتبيه",
+    "image": "assets/3.png",
+    "url": "https://yesspaces.net",
+    "tags": ["html","css","js"]
+  },
 ]
+
