@@ -38,5 +38,45 @@
     "image": "assets/4.png",
     "url": "https://beautymil.com",
     "tags": ["ui","react","design"]
+  },
+  {
+    "id": "proj-5",
+    "name": "A website dedicated to Edmark Malaysia products",
+    "nameAr": "موقع خاص بمنتجات ادمارك الماليزي",
+    "descEn": "A website dedicated to Edmark Malaysia products.",
+    "descAr": "موقع خاص بمنتجات ادمارك الماليزيه",
+    "image": "assets/5.png",
+    "url": "https://shfaa.store/",
+    "tags": ["ui","react","design"]
+  },
+  {
+    "id": "proj-6",
+    "name": "Website of Genias Trading and Services Company",
+    "nameAr": "موقع خاص بشركه جينياس للتجاره والخدمات",
+    "descEn": "Website of Genias Trading and Services Company.",
+    "descAr": "موقع خاص بشركه جينياس للتجاره والخدمات",
+    "image": "assets/6.png",
+    "url": "https://genius-qa.com/",
+    "tags": ["ui","react","design"]
+  },
+  {
+    "id": "proj-7",
+    "name": "Website dedicated to the Investment Education Academy",
+    "nameAr": "موقع خاص باكاديميه تعليم الاستثمار",
+    "descEn": "Website dedicated to the Investment Education Academy.",
+    "descAr": "موقع خاص باكاديميه تعليم الاستثمار",
+    "image": "assets/7.png",
+    "url": "https://ai-cryptoacademy.com/",
+    "tags": ["ui","react","design"]
+  },
+  {
+    "id": "proj-8",
+    "name": "A website dedicated to accounting procedures for companies and individuals.",
+    "nameAr": "موقع خاص بشركه اجرائات محاسبيه للشركات والافراد",
+    "descEn": "A website dedicated to accounting procedures for companies and individuals..",
+    "descAr": "موقع خاص بشركه اجرائات محاسبيه للشركات والافراد",
+    "image": "assets/8.png",
+    "url": "https://imsc-qa.com",
+    "tags": ["ui","react","design"]
   }
 ]
